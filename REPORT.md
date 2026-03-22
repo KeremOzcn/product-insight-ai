@@ -536,7 +536,7 @@ Product Insight AI demonstrates how modern pre-trained transformer models can be
 
 ---
 
-*Code Repository: [GitHub link — add before submission]*
+*Code Repository: https://github.com/KeremOzcn/product-insight-ai*
 *Video Demo: [YouTube/Drive link — add before submission]*
 
 ---
