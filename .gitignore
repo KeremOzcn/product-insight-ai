@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# HuggingFace model cache (too large for git)
+fine_tuned_model/
+*.safetensors
+*.bin
+
+# Gradio temp files
+_download_results.csv
+gradio_cached_examples/
+flagged/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints/
